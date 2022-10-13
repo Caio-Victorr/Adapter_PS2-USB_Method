@@ -1,3 +1,4 @@
-# Adapter_Method
+# Adapter_PS2-USB_Method
 
-Adaptação de Entrada PS2 para Entrada USB. exemplo feito para disciplina de Engenharia de Software II
+Adaptação de Entrada PS2 para Entrada USB. 
+Atividade executado para a disciplina de Engenharia de Software II
